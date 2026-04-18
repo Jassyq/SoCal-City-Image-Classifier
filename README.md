@@ -1,4 +1,4 @@
-# SoCalGuessr 🌴
+# SoCalGuessr 
 
 A deep learning image classifier that predicts which Southern California city a street-level photo was taken in — trained to outperform humans at a task most locals can't ace.
 
